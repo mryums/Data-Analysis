@@ -29,13 +29,11 @@ This project predicts whether a student will **pass or fail** using a **Random F
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 ### 📌 Pass vs Fail
 
-```markdown
 ![Pass vs Fail](pass_vs_fail_chart.png)
-```
 
 ### 📌 Gender vs Result
 
