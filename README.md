@@ -32,8 +32,8 @@ This project predicts whether a student will **pass or fail** using a **Random F
 ## Screenshots
 <p align="center">
   <img src="pass_vs_fail_chart.png" width="30%" />
-  <img src="gender_vs_pass_fail_chart.png" width="30%" />
   <img src="correlation_heatmap.png" width="30%" />
+  <img src="gender_vs_pass_fail_chart.png" width="30%" />
 </p>
 
 ---
